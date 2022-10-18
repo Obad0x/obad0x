@@ -1,207 +1,39 @@
-[![profile Header]([https://photos.app.goo.gl/yn7jCFGbzpfSvxyV7](https://photos.app.goo.gl/LKUJK4ky4CxX1FeT7))]()
+<h1 align="center">Hi 👋, I'm Sita Dabo</h1>
+<h3 align="center">Am a 17 year old Mernstack, Game developer from Nigeria</h3>
 
-## Wonderful Intro
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obaddabo" alt="obaddabo" /></a> </p>
 
-<table>
-  <tr>
-    <td valign="center">
-      <a href="https://dunsin.vercel.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-      <p>
-        <h3>Hello👋🏾</h3>
-        👀 &nbsp;I love to build projects, make life easier and fun with code.
-        <br/>
-        🚀 &nbsp;I love contributing to Opensource.
-        <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
-        <br/>
-        🧑🏽‍💻 &nbsp; Open to work opportunities
-        <br />
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
-        <br/>
-        <br />
-        <h3>Sponsor Me🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
-        <br/>
-        <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/kcFraw3nhz"><img src="https://dcbadge.vercel.app/api/server/kcFraw3nhz" alt="Realist discord server"/></a>
-        <br/>
-        <a href="https://twitter.com/DunsinWebDev">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-       </p>
-    </td>
-    <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+- 🔭 I’m currently working on **obad, Webit and Robinhood**
 
-## Contribute to My Projects👇🏽
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Dun-sin/Whisper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Whisper" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Dun-sin/Code-Magic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dun-sin&repo=Code-Magic" /></a>
-    </td>
-  </tr>
-</table>
+- 🌱 I’m currently learning **Node.js**
 
-## My Github Stats && Technologies I use:
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dun-sin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/Dun-sin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/Dun-sin"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-sin&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  <tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-        </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-      </a>
-        <p align="center">TypeScript</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>            
-      <p align="center">
-        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-      </a>
-        <p align="center">NextJS</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
-      </a>
-        <p align="center">Redux</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-  </tr>
+- 👯 I’m looking to collaborate on **Awesome Projects**
 
-  <tr>
-    <td>      
-      <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-        </a>
-        <p align="center">Tailwind</p>
-      </p>
-    </td>
-    <td>            
-      <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-        <p align="center">NodeJS</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-        </a>
-        <p align="center">ExpressJS</p>
-      </p>
-    </td>
-  </tr>
+- 👨‍💻 All of my projects are available at [github.com/obaddabo](github.com/obaddabo)
 
-  <tr>
-    <td>             
-      <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-        </a>
-        <p align="center">MongoDB</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        </a>
-        <p align="center">React</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
-      </a>
-        <p align="center">Adobe XD</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-          </a>
-        <p align="center">Firebase</p>
-      </p>      
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-        </a>
-        <p align="center">Figma</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-      </a>
-        <p align="center">SASS</p>
-      </p>
-    </td>
-  </tr>
-</table>
+- 📝 I regularly write articles on [medium.com@engnrobad](medium.com@engnrobad)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+- 💬 Ask me about **react, mongodb ,node c# and unity**
 
-## Connect with me:
+- 📫 How to reach me **engnrobad@gmail.com**
 
-<p align="center">
-  <a href = "https://www.linkedin.com/in/favour-faiyetole-99a438229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/DunsinWebDev"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/dunsincodes"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+- ⚡ Fun fact **i love making new friends**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/engnrobad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engnrobad" height="30" width="40" /></a>
+<a href="https://instagram.com/engnr_obad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engnr_obad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/engnrobad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="engnrobad" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/engnrobad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engnrobad" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaddabo&show_icons=true&locale=en&layout=compact" alt="obaddabo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaddabo&show_icons=true&locale=en" alt="obaddabo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaddabo&" alt="obaddabo" /></p>

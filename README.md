@@ -1,4 +1,4 @@
-<img> src 'https://photos.app.goo.gl/hZXhMSujvrdAKNX97'>
+![](https://github.com/obaddabo/obaddabo/blob/main/Kid%20With%20A%20Dream%20Engnr%20obad.png)
 <h1 align="center">Hi 👋, I'm Sita Dabo</h1>
 <h3 align="center">Am a 17 year old Mernstack, Game developer from Nigeria</h3>
 

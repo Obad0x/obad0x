@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/engnrobad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engnrobad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sita-dabo-643555243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sita-dabo-643555243" height="30" width="40" /></a>
-<a href="https://instagram.com/engnr_obad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engnr_obad" height="30" width="40" /></a>
+<a href="https://instagram.com/engnr_obad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engnr_obad" height="30" width="40"{} /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,8 +38,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/engnrobad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="engnrobad" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaddabo&show_icons=true&theme=dark&locale=en&layout=compact" alt="obaddabo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaddabo&show_icons=true&theme=dark&locale=en" alt="obaddabo" /></p>
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaddabo&show_icons=true&theme=dark&locale=en&layout=compact" alt="obaddabo" /></p>
+ |  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaddabo&show_icons=true&theme=dark&locale=en" alt="obaddabo" /></p>|
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaddabo&" alt="obaddabo" /></p>

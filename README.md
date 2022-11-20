@@ -45,4 +45,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obaddabo&" alt="obaddabo" /></p>
 <br>
-<p>please hire me </p>
+<p>lets be friends </p>

@@ -29,6 +29,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Engnrobad "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Engnrobad " /></a></p><br><br>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31q5r52surd4fd6vgitbxpmsj5g4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31q5r52surd4fd6vgitbxpmsj5g4&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obaddabo&show_icons=true&locale=en&layout=compact" alt="obaddabo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obaddabo&show_icons=true&locale=en" alt="obaddabo" /></p>

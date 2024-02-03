@@ -13,12 +13,13 @@
 # 📊 GitHub Stats:
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OBad0x&theme=dark&hide_border=true" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+ 
 </div>
 <br clear="both"/>
 <br/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OBad0x&theme=dark&hide_border=true" />
 </div>
 make
 

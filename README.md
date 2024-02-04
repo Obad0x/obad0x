@@ -14,7 +14,8 @@
 
 # 💻 Tech Stack:
 <div>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" width="100" height="20"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" width="100" height="20">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" width="100" height="20"> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" width="100" height="20">
 </div>
 
 # 📊 GitHub Stats:

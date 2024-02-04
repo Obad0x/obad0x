@@ -21,13 +21,13 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false" style="width: 45%; border: 1px solid #ccc; padding: 5px;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBad0x&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="width: 45%; border: 1px solid #ccc; padding: 5px;" />
 </div>
 <br clear="both"/>
 <br/>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OBad0x&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OBad0x&theme=dark&hide_border=true" style="width: 100%; border: 1px solid #ccc; padding: 5px;" />
 </div>
 
 ## 💰 You can help me by Donating

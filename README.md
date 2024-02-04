@@ -11,12 +11,11 @@
   <a href="https://instagram.com/OBAD0X"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/sita-dabo-643555243/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1q0gvINASASmIUw0A%2F7X%2Fw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a> <a href="https://twitch.tv/OBAD0X"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"></a> <a href="https://x.com/OBAD0X"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a> 
 </div>
 
+
 # 💻 Tech Stack:
 <div>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white"> </div>
-
-
-
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" width="100" height="20"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" width="100" height="20">
+</div>
 
 # 📊 GitHub Stats:
 <div style="display: flex;">

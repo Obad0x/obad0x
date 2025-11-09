@@ -14,6 +14,7 @@
 - 💬 Ask me about **game development and backend development**
 
 - 📫 How to reach me **sitadabo68@gmail.com**
+- account for my top secret projects < SHHH 😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

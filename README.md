@@ -43,12 +43,12 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Obad0x&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obad0x&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obad0x&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obad0x&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
@@ -56,4 +56,5 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 <div align="center">
   <sub>Let's build something awesome together.</sub>
 </div>
+
 

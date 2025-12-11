@@ -48,7 +48,7 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obad0x&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
 ---
@@ -56,3 +56,4 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 <div align="center">
   <sub>Let's build something awesome together.</sub>
 </div>
+

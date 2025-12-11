@@ -34,27 +34,13 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white) ![SDL](https://img.shields.io/badge/SDL-2C3E50?style=flat-square) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
----
 
 
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obad0x&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Obad0x&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Obad0x&theme=radical&hide_border=true" height="150" alt="streak graph" />
-</div>
-
----
 
 <div align="center">
   <sub>Let's build something awesome together.</sub>
 </div>
+
 
 

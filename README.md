@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=478CBF&height=250&section=header&text=Player%201%20Ready&fontSize=80&fontAlignY=35&desc=Game%20Developer%20%7C%20Godot%20Enthusiast%20%7C%20Level%20Designer&descAlignY=60&descAlign=50" width="100%"/>
-  
+ 
   <h1>Hi there, I'm <a href="https://yourportfolio.com">Sita</a>! 👾</h1>
   
   <p>

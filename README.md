@@ -36,9 +36,8 @@ I am a **Game Developer** passionate about creating immersive gameplay systems a
 
 
 
-
 <div align="center">
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=obad0x&layout=compact&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obad0x&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 
